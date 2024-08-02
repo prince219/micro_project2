@@ -1,0 +1,59 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    align: center;
+    display: flex;
+    width: 70vw;
+    gap: 0px;
+    opacity: 0px;
+    margin-bottom: 50px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+    
+}
+
+.hero {
+    width: 1542px;
+    height: 1695px;
+    top: 289px;
+    left: 101px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-left: 100px;
+    margin-top: 300px;
+    margin-bottom: 120px;
+    
+}
+.icon {
+    
+   
+   
+   position: fixed;
+   bottom: 0.5rem;
+   right: 1rem;
+
+   width: 4rem;
+   height: 4rem;
+   margin-right: 200px;
+   margin-bottom: 50px;
+   bottom: 9%;
+
+
+}
+.social {
+    
+   
+    position: fixed;
+    top:10%;
+    float: right;
+    right: 10px;
+    z-index: 10;
+    gap: 0.2rem;
+}
